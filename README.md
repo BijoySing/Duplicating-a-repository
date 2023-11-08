@@ -1,6 +1,6 @@
  # Repository Duplication Guide
 
-This guide explains how to duplicate a GitHub repository, including repositories with or without Git Large File Storage (LFS) objects.
+This guide explains how to duplicate a GitHub repository, without losing your git commit
 
 ## Duplicating a Standard Repository
 
