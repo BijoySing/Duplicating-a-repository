@@ -1,6 +1,10 @@
- # Repository Duplication Guide
+ # How to Duplicate a GitHub Repository Without Losing Git Commits
 
-This guide explains how to duplicate a GitHub repository, without losing your git commit
+ Learn to duplicate GitHub repositories without losing commits. Safely back up, collaborate, and explore projects with this step-by-step guide.
+
+
+
+
 
 ## Duplicating a Standard Repository
 
