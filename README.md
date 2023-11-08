@@ -11,10 +11,12 @@ This guide explains how to duplicate a GitHub repository, without losing your gi
  ```
  git clone --bare https://github.com/EXAMPLE-USER/OLD-REPOSITORY.git
 ```
-
+```
 cd OLD-REPOSITORY.git
 ```
+
 ### Create a new repository where you can duplicate this repository
+
 ```
 git push --mirror https://github.com/EXAMPLE-USER/NEW-REPOSITORY.git
 ```
