@@ -24,9 +24,4 @@ cd OLD-REPOSITORY.git
 ```
 git push --mirror https://github.com/EXAMPLE-USER/NEW-REPOSITORY.git
 ```
-### Remove the temporary local repository you created earlier.
-
-```
-cd ..
-rm -rf OLD-REPOSITORY.git
-```
+## Thank you
